@@ -1,0 +1,23 @@
+{
+  "name": "TareaLandingPage",
+  "version": "1.0.0",
+  "description": "Tarea del proyecto Final del curso Asincronismo con JS de Platzi",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FedericoArias1992/TareaLandingPage.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FedericoArias1992/TareaLandingPage/issues"
+  },
+  "homepage": "https://github.com/FedericoArias1992/TareaLandingPage#readme",
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
